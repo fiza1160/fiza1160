@@ -1,6 +1,6 @@
-### Hi there 👋
+### Привет 👋
 
-- 🤑 Мой тестовый торговый бот: [scrooge-trading-bot](https://github.com/fiza1160/scrooge-trading-bot)
+- 🤑 мой тестовый торговый бот: [scrooge-trading-bot](https://github.com/fiza1160/scrooge-trading-bot).
 
 <!--
 **fiza1160/fiza1160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
